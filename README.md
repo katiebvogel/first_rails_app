@@ -5,7 +5,7 @@ This is my first rails application.  9/18/16
 
 Things to include:
 
-* Ruby version
+* Ruby version:   2.3.1
 
 * System dependencies
 
@@ -19,6 +19,6 @@ Things to include:
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+* Deployment instructions -- currently set to a local host 3000.  The command to start the server is:    rails server
 
 * ...
